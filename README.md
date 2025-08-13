@@ -12,6 +12,7 @@ Each script focuses on mastering core Python concepts such as variables, loops, 
 |---------|-------------|
 | `number_guessing_game.py` | A simple CLI game to guess a randomly generated number, built to practice conditionals, loops, and user input handling |
 | `rock_paper_scissors.py` | A simple Rock-Paper-Scissors game where you play against the computer. |
+| `time_counter.py` | A simple time counter based on the input(seconds) given by the user |
 
 *(More programs coming soon as I continue learning!)*
 
