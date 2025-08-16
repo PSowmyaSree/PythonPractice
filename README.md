@@ -13,6 +13,10 @@ Each script focuses on mastering core Python concepts such as variables, loops, 
 | `number_guessing_game.py` | A simple CLI game to guess a randomly generated number, built to practice conditionals, loops, and user input handling |
 | `rock_paper_scissors.py` | A simple Rock-Paper-Scissors game where you play against the computer. |
 | `time_counter.py` | A simple time counter based on the input(seconds) given by the user |
+| `NumberFrequency.py` | A Program to count number of times a number repeated in a input sequence, One of the logic needed in Data wrangling in AI/ML |
+| `ReverseString.py` | A Program which reverses the input string, One of the logic needed in Data wrangling in AI/ML |
+| `RemoveNonAlphaNumericChars.py` | A Program which removes non alphanumeric characters from the input string, One of the logic needed in Data wrangling in AI/ML |
+
 
 *(More programs coming soon as I continue learning!)*
 
