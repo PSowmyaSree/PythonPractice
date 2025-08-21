@@ -16,6 +16,7 @@ Each script focuses on mastering core Python concepts such as variables, loops, 
 | `NumberFrequency.py` | A Program to count number of times a number repeated in a input sequence, One of the logic needed in Data wrangling in AI/ML |
 | `ReverseString.py` | A Program which reverses the input string, One of the logic needed in Data wrangling in AI/ML |
 | `RemoveNonAlphaNumericChars.py` | A Program which removes non alphanumeric characters from the input string, One of the logic needed in Data wrangling in AI/ML |
+| `PasswordValidator.py` | A Program which validates the user password, One of the logic needed in Cyber security |
 
 
 *(More programs coming soon as I continue learning!)*
